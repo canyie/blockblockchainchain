@@ -69,3 +69,7 @@ ID：1122479863548407808
 用户：https://twitter.com/lyhng_rika
 ID：1181482709580861440
 原因：https://twitter.com/Kirbysfan1/status/1493609228774387716
+
+用户：https://x.com/Yanyi_Official
+ID：1492709561538469892
+原因：https://x.com/Yanyi_Official/status/1842082320616194320 https://x.com/Yanyi_Official/status/1842131904390398144
